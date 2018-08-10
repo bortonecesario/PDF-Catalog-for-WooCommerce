@@ -15,3 +15,5 @@ NOTE: We can create templates according to your needs and using your own design.
 Visit 'Plugins > Add New'
 Search for 'PDF Catalog'
 Activate PDF Catalog from your Plugins page.
+
+Compared to the original version on Wordpress, I added, for the General template only, the price display and variations for articles with variations
