@@ -1,0 +1,24 @@
+body {
+    background-image: url('../wp-content/plugins/pdf-catalog-for-woocommerce/pdf_data/templates/Additional service/img/woo.png');
+}
+
+.link{
+    width:500px;    
+    float:left;    
+}
+
+a  {    
+    font-size: 14px;
+    font-weight: normal;
+    text-decoration: none;    	
+}
+p{
+    line-height: 8px;
+}
+.click  {
+    width:260px;
+    height:40px;
+    float:right;
+    padding-top:10px;     
+}
+
